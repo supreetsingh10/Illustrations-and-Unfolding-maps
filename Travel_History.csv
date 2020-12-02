@@ -1,0 +1,19 @@
+Location (City),Country,Continent,Latitude (Lat),Longitude (Lon)
+Mumbai,India,Asia,19.076,72.8777
+Delhi,India,Asia,28.7041,77.1025
+Shimla,India,Asia,31.1048,77.1734
+Gangtok,India,Asia,27.3314,88.6138
+Singapore,SGP,Asia,1.3521,103.8198
+Dubai,UAE,Asia,25.2048,55.2708
+Shanghai,China,Asia,31.2304,121.4737
+Gothenburg,Sweden,Europe,57.7089,11.9746
+Valencia,Spain,Europe,39.4699,0.3763
+Madrid,Spain,Europe,40.4168,3.7038
+Barcelona,Spain,Europe,41.3851,2.1734
+Savannah,USA,North America,32.0809,-81.0912
+Atlanta,USA,North America,33.749,-84.388
+Durham,USA,North America,35.994,-78.8986
+Baltimore,USA,North America,39.2904,-76.6122
+New York,USA,North America,40.7128,-74.006
+Boston,USA,North America,42.3601,-71.0589
+Miami,USA,North America,25.7617,-80.1918
