@@ -132,7 +132,7 @@ void draw() {
    popMatrix();
   if (mousePressed) {
     clicked = map.getLocation(mouseX, mouseY); 
-    In.nearest(clicked); 
+    In.nearest(clicked); //Check the interact.pde 
     //System.out.println("You crazy if this works"); 
     //interaction(mouseX, mouseY, home_loc.x, home_loc.y);
   }
