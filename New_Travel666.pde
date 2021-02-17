@@ -78,7 +78,7 @@ void make_Markers() {
 
 void display() {  
   //ellipse(geo[1].onScreen.x, geo[1].onScreen.y, 36, 36); 
-  for (int i = 1; i < 18; i++) {  
+  for (int i = 1; i < 18; i++) {          //Colour of the marker is changed according to the continent 
     if(i < 7){
         ellipse(on_screen[i].x, on_screen[i].y, 36, 36);
         stroke(0);
