@@ -1,5 +1,10 @@
 # Illustrations-and-Unfolding-maps
 
+Requisites : 
+
+1. Processing 2.1
+2. Java 8 and upwards will do 
+
 New_travel666.pde is the main code file. 
 Geomarkers.pde has all the markers that are marking a location. 
 Interact.pde is responsible for the interactions with the map. 
